@@ -5,7 +5,6 @@ public class calculadora2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int operar = 0;
-
         while (operar != 5) {
             System.out.print("Ingresa un número: ");
             float num1 = scan.nextFloat();
